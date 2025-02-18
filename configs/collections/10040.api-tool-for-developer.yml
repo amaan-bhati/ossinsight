@@ -3,6 +3,7 @@ name: API tool for developer
 items:
   - hoppscotch/hoppscotch
   - boyney123/mockit
+  - keploy/keploy
   - mockoon/mockoon
   - stoplightio/prism
   - swagger-api/swagger-ui
@@ -16,3 +17,4 @@ items:
   - graphql-editor/graphql-editor
   - apioo/fusio
   - requestly/requestly
+  
